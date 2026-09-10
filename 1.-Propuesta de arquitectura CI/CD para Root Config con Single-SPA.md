@@ -6,7 +6,7 @@
 |---|---|
 | Historia de usuario | HU-01: Diseñar la arquitectura de CI/CD del Root Config |
 | Estado | Propuesta inicial |
-| Versión | 1.0 |
+| Versión | 1.1 |
 | Fecha | 10/09/2026 |
 | Alcance | Root Config de Single-SPA desplegado en Azure Static Web Apps mediante Azure DevOps Pipelines y Agent Pool Self-Hosted |
 
